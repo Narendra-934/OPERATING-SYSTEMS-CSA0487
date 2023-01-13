@@ -4,7 +4,7 @@ void firstFit(int blockSize[], int m, int processSize[], int n)
 	int i, j;
 	int allocation[n];
 	for(i = 0; i < n; i++)
-	{
+	{f
 		allocation[i] = -1;
 	}
 	
